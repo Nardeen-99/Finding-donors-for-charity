@@ -1,0 +1,2 @@
+# Finding-donors-for-charity
+In this project we predict who can donor for a charity through identify people most likely to donate to their cause by using supervised learning technics and Investigated factors that affect the likelihood of charity donations being made based on real  U.S census data, and selected the best model based on accuracy, a modified F-scoring metric, and algorithm efficiency.
